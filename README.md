@@ -8,5 +8,5 @@ Hi, I'm Yeonjin(She/Her), a product designer currently exploring the depths of d
 I would like to explore the potential of data visualization, so planning to work in the finance sector and designing complicated charts. 
 
 # Portfolio
-Class Assignments 
-Final Project: Visual data exploration that helps users' self-reflection in terms of their professional identity 
+## Class Assignments 
+## Final Project: Visual data exploration that helps users' self-reflection in terms of their professional identity 
