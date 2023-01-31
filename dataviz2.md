@@ -12,13 +12,13 @@ Welcome! In this page, I'll show three different types of visualizations regardi
 <div class="flourish-embed flourish-chart" data-src="visualisation/12598001"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Third Assignment
-Title: 
-Brief Description: 
-Data elements: General government debt-to-GDP ratio from 1995 to 2021 (OECD (2023), General government debt (indicator). doi: 10.1787/a0528cc2-en (Accessed on 30 January 2023)
-
 The different methods of visualization, and how they compare/contrast to one another: 
-Why I chose the third data visualization: 
+Why I chose the third data visualization: I chose a "Bubble Chart" type
 Description of the visual details: 
 
+Data elements: General government debt-to-GDP ratio from 1995 to 2021 (OECD (2023), General government debt (indicator). doi: 10.1787/a0528cc2-en (Accessed on 30 January 2023)
+
+# Overall ratio flow
 <div class="flourish-embed flourish-scatter" data-src="visualisation/12598184"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+# Check ratio using a time slider 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/12598246"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
