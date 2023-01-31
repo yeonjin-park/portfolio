@@ -1,6 +1,7 @@
 [Go back to mainpage](https://yeonjin-park.github.io/portfolio/)
 
 # Visualizing government debt
+Welcome! In this page, I'll show three different types of visualizations regarding the government debt. 
 
 ## First Assignment 
 
@@ -15,6 +16,6 @@ Title:
 Brief Description: 
 Data elements: General government debt-to-GDP ratio from 1995 to 2021 (OECD (2023), General government debt (indicator). doi: 10.1787/a0528cc2-en (Accessed on 30 January 2023)
 
-The different methods of visualization, and how they compare / contrast to one another:
+The different methods of visualization, and how they compare/contrast to one another: 
 Why I chose the third data visualization: 
 Description of the visual details: 
