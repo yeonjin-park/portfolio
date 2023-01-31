@@ -16,7 +16,7 @@ Welcome! In this page, I'll show three different types of visualizations regardi
 Contents here 
 
 **Why I chose the third data visualization**
-I chose a "Bubble Chart" type and attached two different types of visualizations which showcase both the overall flow of the debt-to-GDP ratio from 1995 to 2021 and yearly values by using a time slider. Other than bar or line charts, I thought the bubble chart visualization could effectively show both each ratio value and overall trends based on a timeline. The point that struggled me while using this tool was locating legends on the most rights side of the chart, matching with the bubble. I couldn't find a way to solve this problem, so ended up locating the legend on the top, which makes the chart quite confusing since it has too many numbers of the nations.  
+I chose a "Bubble Chart" type and attached two different types of visualizations which showcase both the overall flow of the debt-to-GDP ratio from 1995 to 2021 and yearly values by using a time slider. Other than bar or line charts, I thought the bubble chart visualization could effectively show both each ratio value and overall trends based on a timeline. The point that struggled me while using this tool was putting legends on the most rights side of the chart, matching with each bubble. I couldn't find a way to solve this problem, so ended up positioning the legend on the top, which made the chart quite confusing since it had too many numbers of the nations.  
 
 **Source**
 General government debt-to-GDP ratio from 1995 to 2021
