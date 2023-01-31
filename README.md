@@ -8,10 +8,9 @@ Hi, I'm Yeonjin(She/Her), a product designer currently exploring the depths of d
 I would like to explore the potential of data visualization, so planning to work in the finance sector and designing complicated charts. 
 
 # Portfolio
-## Assignment: Visualizing overnment Debt
+## Assignment: Visualizing government Debt
 [Check my assignment](/dataviz2.md)
 
-## Assignment 3&4: Critique by Design
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`. 
+## Assignment 3&4: Critique by Design 
 
 ## Final Project: Visual data exploration that helps users' self-reflection in terms of their professional identity 
