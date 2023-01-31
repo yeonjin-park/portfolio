@@ -22,7 +22,7 @@ Welcome! In this page, I'll show three different types of visualizations regardi
 <br />General government debt-to-GDP ratio from 1995 to 2021
 <br />(OECD (2023), General government debt (indicator). doi: 10.1787/a0528cc2-en (Accessed on 30 January 2023)
 
-### Check the overall debt-to-GDP ratio flow
+### ↓ Check the overall debt-to-GDP ratio flow
 <div class="flourish-embed flourish-scatter" data-src="visualisation/12598184"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-### Check each ratio using a time slider 
+### ↓ Check each ratio using a time slider 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/12598246"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
