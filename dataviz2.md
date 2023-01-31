@@ -19,3 +19,6 @@ Data elements: General government debt-to-GDP ratio from 1995 to 2021 (OECD (202
 The different methods of visualization, and how they compare/contrast to one another: 
 Why I chose the third data visualization: 
 Description of the visual details: 
+
+<div class="flourish-embed flourish-scatter" data-src="visualisation/12598184"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-scatter" data-src="visualisation/12598246"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
