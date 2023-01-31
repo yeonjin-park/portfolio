@@ -1,6 +1,6 @@
 [Go back to mainpage](https://yeonjin-park.github.io/portfolio/)
 
-## Visualizing government debt
+# Visualizing government debt
 
 ## First Assignment 
 
