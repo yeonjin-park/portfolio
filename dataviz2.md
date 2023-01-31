@@ -13,14 +13,14 @@ Welcome! In this page, I'll show three different types of visualizations regardi
 
 ## Third Assignment
 **The different methods of visualization, and how they compare/contrast to one another**
-Contents here 
+<br />In the case of the bar chart, the first one, it highlights a specific timeline that can clearly show the difference between each nation's values. On the other hand, the second line chart is more focused on showing the overall trend of each nation's ratio value by time. People can clearly distinguish how each nation's government performed from the individual line graphs. The last charts I created are a result of showing both sides: yearly details and overall trends. There are still some details that should be improved on, but I guess those still work in terms of my original intention.
 
 **Why I chose the third data visualization**
-I chose a "Bubble Chart" type and attached two different types of visualizations which showcase both the overall flow of the debt-to-GDP ratio from 1995 to 2021 and yearly values by using a time slider. Other than bar or line charts, I thought the bubble chart visualization could effectively show both each ratio value and overall trends based on a timeline. The point that struggled me while using this tool was putting legends on the most rights side of the chart, matching with each bubble. I couldn't find a way to solve this problem, so ended up positioning the legend on the top, which made the chart quite confusing since it had too many numbers of the nations.  
+<br />I chose a "Bubble Chart" type and attached two different types of visualizations which showcase both the overall flow of the debt-to-GDP ratio from 1995 to 2021 and yearly values by using a time slider. Other than bar or line charts, I thought the bubble chart visualization could effectively show both each ratio value and overall trends based on a timeline. The point that struggled me while using this tool was putting legends on the most rights side of the chart, matching with each bubble. I couldn't find a way to solve this problem, so ended up positioning the legend on the top, which made the chart quite confusing since it had too many numbers of the nations.  
 
 **Source**
-General government debt-to-GDP ratio from 1995 to 2021
-(OECD (2023), General government debt (indicator). doi: 10.1787/a0528cc2-en (Accessed on 30 January 2023)
+<br />General government debt-to-GDP ratio from 1995 to 2021
+<br />(OECD (2023), General government debt (indicator). doi: 10.1787/a0528cc2-en (Accessed on 30 January 2023)
 
 ### Check the overall debt-to-GDP ratio flow
 <div class="flourish-embed flourish-scatter" data-src="visualisation/12598184"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
