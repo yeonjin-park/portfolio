@@ -12,13 +12,17 @@ Welcome! In this page, I'll show three different types of visualizations regardi
 <div class="flourish-embed flourish-chart" data-src="visualisation/12598001"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Third Assignment
-The different methods of visualization, and how they compare/contrast to one another: 
-Why I chose the third data visualization: I chose a "Bubble Chart" type
-Description of the visual details: 
+**The different methods of visualization, and how they compare/contrast to one another**
+Contents here 
 
-Data elements: General government debt-to-GDP ratio from 1995 to 2021 (OECD (2023), General government debt (indicator). doi: 10.1787/a0528cc2-en (Accessed on 30 January 2023)
+**Why I chose the third data visualization**
+I chose a "Bubble Chart" type and attached two different types of visualizations which showcase both the overall flow of the debt-to-GDP ratio from 1995 to 2021 and yearly values by using a time slider. Other than bar or line charts, I thought the bubble chart visualization could effectively show both each ratio value and overall trends based on a timeline. The point that struggled me while using this tool was locating legends on the most rights side of the chart, matching with the bubble. I couldn't find a way to solve this problem, so ended up locating the legend on the top, which makes the chart quite confusing since it has too many numbers of the nations.  
 
-# Overall ratio flow
+**Source**
+General government debt-to-GDP ratio from 1995 to 2021
+(OECD (2023), General government debt (indicator). doi: 10.1787/a0528cc2-en (Accessed on 30 January 2023)
+
+### Check the overall debt-to-GDP ratio flow
 <div class="flourish-embed flourish-scatter" data-src="visualisation/12598184"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-# Check ratio using a time slider 
+### Check each ratio using a time slider 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/12598246"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
