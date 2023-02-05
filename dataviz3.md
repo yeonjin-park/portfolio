@@ -1,7 +1,7 @@
 [Go back to mainpage](https://yeonjin-park.github.io/portfolio/)
 
 # Critique by Design
-Welcome! In this page, I'll showcase a data visualization about ::how I spent my time on the Thesis actually with a compared to my plan over 2 months::.  
+Welcome! In this page, I'll showcase a data visualization about __how I spent my time on the Thesis actually with a compared to my plan over 2 months.__  
 
 ## [A Link to the original data visualization](https://public.timelyapp.com/reports/LD7QYJYwrd6Ho1pPFvpRkP6Z) 
 **Why I chose this visualization**
