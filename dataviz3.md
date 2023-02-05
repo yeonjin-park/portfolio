@@ -22,7 +22,6 @@ Welcome! In this page, I'll showcase (topic) data visualization with it's detail
 <br /> User 2. Student, Late 20's
 <br /> - Insights bullet point
 
-
 **Step 4. Build it!**
 <br /> What I changed based on the user feedback 
 <br /> - Insights bullet point
@@ -33,7 +32,5 @@ Welcome! In this page, I'll showcase (topic) data visualization with it's detail
 <br /> - What my data visualization shows 
 <br /> - Why I selected the visualization 
 <br /> - What I attempted to show differently 
-
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="1200" height="800" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FSGreJ6Rbd8Vw05YtMbbIku%2FTimely-Memo%3Fpage-id%3D31%253A7%26node-id%3D79%253A194%26viewport%3D231%252C244%252C0.09%26scaling%3Dmin-zoom%26starting-point-node-id%3D79%253A194%26show-proto-sidebar%3D1" allowfullscreen></iframe>
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="1200" height="800" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FSGreJ6Rbd8Vw05YtMbbIku%2FTimely-Memo%3Fpage-id%3D31%253A7%26node-id%3D79%253A194%26viewport%3D231%252C244%252C0.09%26scaling%3Dcontain%26starting-point-node-id%3D79%253A194" allowfullscreen></iframe>
