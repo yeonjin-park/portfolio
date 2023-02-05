@@ -36,7 +36,11 @@ In this page, I'll showcase a data visualization about `how I spent my time on t
 
 
 ### **Step 4. Build it!**
+<br /> First of all, I exported all the datasets into `.csv` from Timely so that I can use it for creating a visualization. I deleted some of the columns which will be not used for the design process. 
+![Export_1](export-3.png)
+> (L)Original .csv file (R)Processed .csv file
 <br /> What I changed based on the user feedback 
+
 <br /> - Insights bullet point
 
 
