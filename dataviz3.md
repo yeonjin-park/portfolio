@@ -18,6 +18,7 @@ Welcome! In this page, I'll showcase a data visualization about `how I spent my 
 
 ### **Step 2. Sketch Wireframe**
 <br /> Detailed info about the sketch 
+![Wireframe 1](wireframe-1.png)
 
 
 ### **Step 3. User Interview**
