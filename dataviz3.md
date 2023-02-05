@@ -5,10 +5,10 @@ In this page, I'll showcase a data visualization about `how I spent my time on t
 
 ## [🔗 A Link to the original data visualization](https://public.timelyapp.com/reports/LD7QYJYwrd6Ho1pPFvpRkP6Z) 
 ### **Why I chose this visualization?**
-<br /> For this assignment, I used my own datasets which has recorded for around 2 months(Oct 10th - Dec 10th, 2022). To precisely record all my work process and boost a productivity regarding the thesis, I logged all my digital footprints on the desktop and phone related to the thesis by using `Timely service and their AI software`. Timely supports a data visualization feature based on collected datasets, and I chose one of their charts design that showing `planned vs. logged datasets on the thesis project`, since I felt there are some points that can be improved on for a better user experience. 
+<br /> For this assignment, I used my own datasets, which has recorded for around 2 months(Oct 10th - Dec 10th, 2022). To precisely record all my work processes and boost productivity regarding the thesis, I logged all my digital footprints on the desktop and phone related to the thesis by using `Timely service and their AI software`. Timely support a data visualization feature based on collected datasets, and I chose one of their charts design that shows `planned vs. logged datasets on the thesis project` since I felt there are some points that could be improved on for a better user experience. 
 
 <br /> `Video Recording`
-<br />Since the design I want to improve is not the public page one, I attached the video that shows the private user page experience. 
+<br />Since the design I want to improve is not the public page, I attached the video that shows the private user page experience. 
 
 ![Timely Screenshot](Timely_Screenshot.png)
 
