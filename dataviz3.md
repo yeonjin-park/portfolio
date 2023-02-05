@@ -1,7 +1,7 @@
 | [Homepage](https://yeonjin-park.github.io/portfolio/) | [Visualizing debt](/dataviz2.md) | [Critique by design](/dataviz3.md) |
 
 # Critique by Design
-Welcome! In this page, I'll showcase a data visualization about `how I spent my time on the Thesis actually with a compared to my plan over 2 months`.  
+In this page, I'll showcase a data visualization about `how I spent my time on the Thesis actually with a compared to my plan over 2 months`.  
 
 ## [🔗 A Link to the original data visualization](https://public.timelyapp.com/reports/LD7QYJYwrd6Ho1pPFvpRkP6Z) 
 ### **Why I chose this visualization?**
