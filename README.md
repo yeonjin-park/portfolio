@@ -11,6 +11,7 @@ I would like to explore the potential of data visualization, so planning to work
 ## Assignment: Visualizing government Debt
 [Check my assignment](/dataviz2.md)
 
-## Assignment 3&4: Critique by Design 
+## Assignment 3&4: Critique by Design
+[Check my assignment](/dataviz3.md)
 
 ## Final Project: Visual data exploration that helps users' self-reflection in terms of their professional identity 
