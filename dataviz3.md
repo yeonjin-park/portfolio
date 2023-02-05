@@ -1,4 +1,4 @@
-| [home page](https://yeonjin-park.github.io/portfolio/) | [visualizing debt](dataviz2) | [critique by design](dataviz3) |
+| [home page](https://yeonjin-park.github.io/portfolio/) | [visualizing debt](/dataviz2.md) | [critique by design](/dataviz3.md) |
 
 # Critique by Design
 Welcome! In this page, I'll showcase a data visualization about __how I spent my time on the Thesis actually with a compared to my plan over 2 months.__  
