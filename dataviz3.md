@@ -10,7 +10,7 @@ In this page, I'll showcase a data visualization about `how I spent my time on t
 ![Timely Screenshot-1](Timely-log.png)
 > Timely's timeline page, which is created based on collected user activity data (My personal page recorded on Oct 12th, 2022.)
 
-<br /> `Visualization GIF`
+### **Visualization(GIF)**
 <br />Since the design I want to improve is not the public page I shared on the top, I attached the GIF that shows the private user page experience. 
 
 ![Timely Screenshot](timely-gif.gif)
