@@ -26,6 +26,8 @@ In this page, I'll showcase a data visualization about `how I spent my time on t
 ![Wireframe 1](wireframe-1.png)
 > My first rough sketch for wireframe ideation
 
+![Wireframe 2](Sketchipad.png)
+> My second iPad digital sketch 
 
 ### **Step 3. User Interview**
 <br /> User 1. Student, Late 20's
