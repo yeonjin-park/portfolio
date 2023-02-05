@@ -10,7 +10,7 @@ Welcome! In this page, I'll showcase a data visualization about `how I spent my 
 <br /> `Video Recording`: since the design I want to improve is not the public page one, I attached the video that shows the private user page experience. 
 ![Timely Screenshot](Timely_Screenshot.png)
 
-## Progress
+## ⌛ Progress
 ### **Step 1. Insights I gained from the critique method**
 <br /> Which part stood out to me, and worked well? 
 <br /> What it led me to think about when considering the redesign? 
@@ -33,7 +33,7 @@ Welcome! In this page, I'll showcase a data visualization about `how I spent my 
 <br /> - Insights bullet point
 
 
-## Final Design
+## 📊 Final Design
 ### **How I spent my time on the Thesis actually with a compared to my plan over 2 months**
 <br /> About the final design 
 <br /> - What my data visualization shows 
