@@ -13,7 +13,7 @@ In this page, I'll showcase a data visualization about `how I spent my time on t
 ### **Visualization(GIF)**
 <br />Since the design I want to improve is not the public page I shared on the top, I attached the GIF that shows the private user page experience. 
 
-![Timely Screenshot](timely-gif.gif)
+<img src="timely-gif.gif" width="1400"/>
 
 ## ⌛ Progress
 ### **Step 1. Insights I gained from the critique method**
@@ -28,7 +28,7 @@ In this page, I'll showcase a data visualization about `how I spent my time on t
 ### **Step 2. Sketch Wireframe**
 <br /> While I critiqued the original visualization based on the given criteria(Stephen Few's Data Visualization Effectiveness Profile), I came up with some new ideas and drew the rough structure on my sticky note. The idea mainly focuses on `providing additional tabs(time/tags) to users` so that they can explore more meaningful datasets by themselves, not only `polishing visual details or revising unit issues`. 
 
-![Wireframe 1](wireframe-1.png)
+<img src="wireframe-1.png" width="800"/>
 > My first rough sketch for wireframe ideation
 
 <br />
