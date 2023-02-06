@@ -43,12 +43,12 @@ In this page, I'll showcase a data visualization about `how I spent my time on t
 
 ---
 ### **Step 3. User Interview**
-<br /> User 1. Student, Late 20's
+<br /> 1) User 1: Student, Late 20's
 - Need visual consistency between both line charts (Log/Tag options). I prefer filling out inside of the line chart like the original chart since it clearly shows the differences among different instances. 
 - Showing detailed user activities on the right side can bring users information overload. Maybe need additional depth(user action) to get access to this information.
 - If possible, providing an insight dashboard would be helpful so that users can easily grasp insights from this dataset. (e.g. You spent 57% of your total working time on the prototyping phase during 2 months.)
 
-<br /> User 2. Student, Late 20's
+<br /> 2) User 2: Student, Late 20's
 - Color usage: need to highlight the "logged" dataset more by giving more contrast on two line graphs. (e.g. use grey color for "planned" line graph).
 
 ---
