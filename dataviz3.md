@@ -33,7 +33,7 @@ In this page, I'll showcase a data visualization about `how I spent my time on t
 
 <br />
 <br />
-Then I redrew the wireframes by using iPad, also considering the detailed layouts and interactions when user clicks each tab.
+  Then I redrew the wireframes by using iPad, also considering the detailed layouts and interactions when user clicks each tab.
 
 ![Wireframe 2](wireframe-new1.jpg)
 ![Wireframe 3](wireframe-new2.jpg)
