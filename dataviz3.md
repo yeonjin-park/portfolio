@@ -13,7 +13,8 @@ In this page, I'll showcase a data visualization about `how I spent my time on t
 ### **Visualization(GIF)**
 <br />Since the design I want to improve is not the public page I shared on the top, I attached the GIF that shows the private user page experience. 
 
-<img src="timely-gif.gif" width="1400"/>
+<img src="timely-gif.gif" width="1400"/>  
+
 
 ## ⌛ Progress
 ### **Step 1. Insights I gained from the critique method**
@@ -23,8 +24,9 @@ In this page, I'll showcase a data visualization about `how I spent my time on t
 <br /> 2) What it led me to think about when considering the redesign? 
 - It doesn't present the datasets that can give meaningful insights to users, such as visually highlighting the gap between planned and logged. 
 - The design only shows weekly datasets, not considering time granularity which covers detailed, daily information that the AI already tracked. 
-- The unit used in the x-axis is not easily read by users (W47 -> Week 47 -> October Week 3). 
+- The unit used in the x-axis is not easily read by users (W47 -> Week 47 -> October Week 3).    
 
+---
 ### **Step 2. Sketch Wireframe**
 <br /> While I critiqued the original visualization based on the given criteria(Stephen Few's Data Visualization Effectiveness Profile), I came up with some new ideas and drew the rough structure on my sticky note. The idea mainly focuses on `providing additional tabs(time/tags) to users` so that they can explore more meaningful datasets by themselves, not only `polishing visual details or revising unit issues`. 
 
@@ -39,6 +41,7 @@ In this page, I'll showcase a data visualization about `how I spent my time on t
 ![Wireframe 3](wireframe-new2.jpg)
 > My second iPad digital sketch 
 
+---
 ### **Step 3. User Interview**
 <br /> User 1. Student, Late 20's
 - Need visual consistency between both line charts (Log/Tag options). I prefer filling out inside of the line chart like the original chart since it clearly shows the differences among different instances. 
@@ -48,7 +51,7 @@ In this page, I'll showcase a data visualization about `how I spent my time on t
 <br /> User 2. Student, Late 20's
 - Color usage: need to highlight the "logged" dataset more by giving more contrast on two line graphs. (e.g. use grey color for "planned" line graph).
 
-
+---
 ### **Step 4. Build it!**
 <br /> First of all, I exported all the datasets into `.csv` from Timely so that I can use it for creating a visualization. I deleted some of the columns which will be not used for the design process. 
 ![Export_1](export-3.png)
