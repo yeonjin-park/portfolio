@@ -57,7 +57,7 @@ In this page, I'll showcase a data visualization about `how I spent my time on t
 ![Export_1](export-3.png)
 > (L)Original .csv file (R)Processed .csv file
 
-<br /> What I changed based on the user feedback 
+<br /> What I changed based on the user feedback: 
 - Insights bullet point
 
 
