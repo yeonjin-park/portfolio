@@ -3,9 +3,9 @@
 # Critique by Design
 In this page, I'll showcase a data visualization about `how I spent my time on the Thesis actually with a compared to my plan over 2 months`.  
 
-## [🔗 A Link to the original data visualization](https://public.timelyapp.com/reports/LD7QYJYwrd6Ho1pPFvpRkP6Z) 
+## [🔗 A Link to the original data visualization](https://public.timelyapp.com/reports/CzCFGNvbGUuK1BuyejmyR6mJ) 
 ### **Why I chose this visualization?**
-<br /> For this assignment, I used my own datasets, which has recorded for around 2 months(Oct 10th - Dec 10th, 2022). To precisely record all my work processes and boost productivity regarding the thesis, I logged all my digital footprints on the desktop and phone related to the thesis by using `Timely service and their AI software`. Timely support a data visualization feature based on collected datasets, and I chose one of their charts design that shows `planned vs. logged datasets on the thesis project` since I felt there are some points that could be improved on for a better user experience. 
+<br /> For this assignment, I used my own datasets, which has recorded for around 2 months(Oct 10th - Dec 16th, 2022). To precisely record all my work processes and boost productivity regarding the thesis, I logged all my digital footprints on the desktop and phone related to the thesis by using `Timely service and their AI software`. Timely support a data visualization feature based on collected datasets, and I chose one of their charts design that shows `planned vs. logged datasets on the thesis project` since I felt there are some points that could be improved on for a better user experience. 
 
 ![Timely Screenshot-1](Timely-log.png)
 > Timely's timeline page, which is created based on collected user activity data (My personal page recorded on Oct 12th, 2022.)
@@ -22,7 +22,7 @@ In this page, I'll showcase a data visualization about `how I spent my time on t
 
 
 ### **Step 2. Sketch Wireframe**
-<br /> Detailed info about the sketch 
+<br /> /Detailed info about the sketch 
 ![Wireframe 1](wireframe-1.png)
 > My first rough sketch for wireframe ideation
 
