@@ -18,7 +18,11 @@ In this page, I'll showcase a data visualization about `how I spent my time on t
 ## ⌛ Progress
 ### **Step 1. Insights I gained from the critique method**
 <br /> Which part stood out to me, and worked well? 
+- Overall clear design that shows the trend of each planned and logged dataset. 
+
 <br /> What it led me to think about when considering the redesign? 
+- It doesn't present the datasets that can give meaningful insights to users, such as visually highlighting the gap between planned and logged. 
+- The design only shows weekly datasets, not considering time granularity which covers detailed, daily information that the AI already tracked. 
 
 
 ### **Step 2. Sketch Wireframe**
@@ -32,10 +36,10 @@ In this page, I'll showcase a data visualization about `how I spent my time on t
 
 ### **Step 3. User Interview**
 <br /> User 1. Student, Late 20's
-<br /> - Insights bullet point
+- Insights bullet point
 
 <br /> User 2. Student, Late 20's
-<br /> - Insights bullet point
+- Insights bullet point
 
 
 ### **Step 4. Build it!**
@@ -44,15 +48,15 @@ In this page, I'll showcase a data visualization about `how I spent my time on t
 > (L)Original .csv file (R)Processed .csv file
 
 <br /> What I changed based on the user feedback 
-<br /> - Insights bullet point
+- Insights bullet point
 
 
 ## 📊 Final Design
 ### **How I spent my time on the Thesis actually with a compared to my plan over 2 months**
 <br /> I mainly used `Figma` to create a data visualization prototype since it can showcase as many details as possible I planned. You can check the overall user experience from the below Figma prototype. I also implemented `a simpler version of this idea by using Tableau`, with the actual datasets I extracted from Timely. 
-<br /> - What my data visualization shows 
-<br /> - Why I selected the visualization 
-<br /> - What I attempted to show differently 
+- What my data visualization shows 
+- Why I selected the visualization 
+- What I attempted to show differently 
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="1200" height="800" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FSGreJ6Rbd8Vw05YtMbbIku%2FTimely-Memo%3Fpage-id%3D31%253A7%26node-id%3D79%253A194%26viewport%3D231%252C244%252C0.09%26scaling%3Dcontain%26starting-point-node-id%3D79%253A194" allowfullscreen></iframe>
 
