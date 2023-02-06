@@ -30,9 +30,10 @@ In this page, I'll showcase a data visualization about `how I spent my time on t
 
 ![Wireframe 1](wireframe-1.png)
 > My first rough sketch for wireframe ideation
+
 <br />
 <br />
-Then I redrew the wireframes by using iPad, also considering `the detailed layouts and interactions` when user clicks each tab.
+Then I redrew the wireframes by using iPad, also considering the detailed layouts and interactions when user clicks each tab.
 
 ![Wireframe 2](wireframe-new1.jpg)
 ![Wireframe 3](wireframe-new2.jpg)
@@ -40,10 +41,12 @@ Then I redrew the wireframes by using iPad, also considering `the detailed layou
 
 ### **Step 3. User Interview**
 <br /> User 1. Student, Late 20's
-- Insights bullet point
+- Need visual consistency between both line charts (Log/Tag options). I prefer filling out inside of the line chart like the original chart since it clearly shows the differences among different instances. 
+- Showing detailed user activities on the right side can bring users information overload. Maybe need additional depth(user action) to get access to this information.
+- If possible, providing an insight dashboard would be helpful so that users can easily grasp insights from this dataset. (e.g. You spent 57% of your total working time on the prototyping phase during 2 months.)
 
 <br /> User 2. Student, Late 20's
-- Insights bullet point
+- Color usage: need to highlight the "logged" dataset more by giving more contrast on two line graphs. (e.g. use grey color for "planned" line graph).
 
 
 ### **Step 4. Build it!**
