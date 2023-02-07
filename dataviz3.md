@@ -44,11 +44,22 @@ In this page, I'll showcase a data visualization about `how I spent my time on t
 ---
 ### **Step 3. User Interview**
 <br /> 1) User 1: Student, Late 20's
+<br /> Q1. Can you tell me what you think this is? 
+<br /> A1. Yes. I noticed that this is about the work progress timelog about the thesis since I read the title first. Also the chart clearly shows what to deliver as it mainly consisted of two information - logged data and planned data. I can see a person usually worked less than a plan, but sometimes more. 
+
+<br /> Q2. Is there anything you find surprising or confusing? 
+<br /> A2. It'd be great if the visualization use transition animation when user click between week and day, since I thought the legibility of the day information is lower than the week because of the large number of the datapoints. I also would like to suggest to show pie chart of the activities (application usage, time stamps) besides of the list. 
+
+<br /> Q3. Who do you think is the intended audience for this?
+<br /> A3. Freelancers or students. It would be useful for people who have to control all the worktime by themselves and prove their work progress clearly to clients. 
+
+<br /> Q4. Is there anything you would change or do differently?
+<br /> A4. It'd be nice if users can also see some meaningful information like patterns, lowest/highest, etc, so that they can extract insights to plan their future easily. Maybe this tool also can suggest user some plan for the upcoming day/week/month. 
+
+<br /> 2) User 2: Student, Late 20's
 - Need visual consistency between both line charts (Log/Tag options). I prefer filling out inside of the line chart like the original chart since it clearly shows the differences among different instances. 
 - Showing detailed user activities on the right side can bring users information overload. Maybe need additional depth(user action) to get access to this information.
 - If possible, providing an insight dashboard would be helpful so that users can easily grasp insights from this dataset. (e.g. You spent 57% of your total working time on the prototyping phase during 2 months.)
-
-<br /> 2) User 2: Student, Late 20's
 - Color usage: need to highlight the "logged" dataset more by giving more contrast on two line graphs. (e.g. use grey color for "planned" line graph).
 
 ---
@@ -68,7 +79,7 @@ In this page, I'll showcase a data visualization about `how I spent my time on t
 - Why I selected the visualization 
 - What I attempted to show differently 
 
-`Figma Prototype: Please click any spaces so that you can explore the tool experience!`
+`↓ Figma Prototype: Please click any spaces so that you can explore the tool experience!`
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="1200" height="800" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3Qlj7vQAxTVcJwJWexFUCq%2FData-Visualization-Class%3Fpage-id%3D1%253A2%26node-id%3D18%253A9%26viewport%3D-1562%252C-95%252C0.5%26scaling%3Dcontain%26starting-point-node-id%3D18%253A9" allowfullscreen></iframe>
 
 
