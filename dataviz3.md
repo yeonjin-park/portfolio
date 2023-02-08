@@ -45,16 +45,16 @@ In this page, I'll showcase a data visualization about `how I spent my time on t
 ### **Step 3. User Interview**
 <br /> 1) User 1: Student, Late 20's
 <br /> Q1. Can you tell me what you think this is? 
-<br /> A1. Yes. I noticed that this is about the work progress timelog about the thesis since I read the title first. Also the chart clearly shows what to deliver as it mainly consisted of two information - logged data and planned data. I can see a person usually worked less than a plan, but sometimes more. 
+<br /> A1. Yes. I noticed that this is about the work progress time log about the thesis since I read the title first. Also, the chart clearly shows what to deliver as it mainly consisted of two pieces of information - logged data and planned data. I can see a person usually worked less than a plan but sometimes more.
 
 <br /> Q2. Is there anything you find surprising or confusing? 
-<br /> A2. It'd be great if the visualization use transition animation when user click between week and day, since I thought the legibility of the day information is lower than the week because of the large number of the datapoints. I also would like to suggest to show pie chart of the activities (application usage, time stamps) besides of the list. 
+<br /> A2. It’d be great if the visualization used transition animation when the user clicks between week and day since I thought the legibility of the day information is lower than the week because of the large number of data points. I also would like to suggest showing a pie chart of the activities (application usage, time stamps) besides the list.
 
 <br /> Q3. Who do you think is the intended audience for this?
-<br /> A3. Freelancers or students. It would be useful for people who have to control all the worktime by themselves and prove their work progress clearly to clients. 
+<br /> A3. Freelancers or students. It would be useful for people who have to control all the worktime by themselves and prove their work progress clearly to clients.
 
 <br /> Q4. Is there anything you would change or do differently?
-<br /> A4. It'd be nice if users can also see some meaningful information like patterns, lowest/highest, etc, so that they can extract insights to plan their future easily. Maybe this tool also can suggest user some plan for the upcoming day/week/month. 
+<br /> A4. It’d be nice if users could also see some meaningful information like patterns, lowest/highest, etc, so that they can extract insights to plan their future easily. Maybe this tool also can suggest to users some plans for the upcoming day/week/month.
 
 <br /> 2) User 2: Student, Late 20's
 - Need visual consistency between both line charts (Log/Tag options). I prefer filling out inside of the line chart like the original chart since it clearly shows the differences among different instances. 
