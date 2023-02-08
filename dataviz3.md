@@ -47,7 +47,7 @@ In this page, I'll showcase a data visualization about `how I spent my time on t
 ---
 ### **Step 3. User Interview**
 <br /> 1) User 1: Student, Late 20's
-<br /> Q1. Can you tell me what you think this is? 
+<br /> Q1. Can you tell me what you think this is?
 <br /> A1. Yes. I noticed that this is about the work progress time log about the thesis since I read the title first. Also, the chart clearly shows what to deliver as it mainly consisted of two pieces of information - logged data and planned data. I can see a person usually worked less than a plan but sometimes more.
 
 <br /> Q2. Is there anything you find surprising or confusing? 
@@ -79,8 +79,9 @@ In this page, I'll showcase a data visualization about `how I spent my time on t
 ### **How I spent my time on the Thesis actually with a compared to my plan over 2 months**
 <br /> I mainly used `Figma` to create a data visualization prototype since it can showcase as many details as possible I planned. You can check the overall user experience from the below Figma prototype. I also implemented `a simpler version of this idea by using Tableau`, with the actual datasets I extracted from Timely. 
 - What my data visualization shows 
+<br /> It presents different depth of the information mainly based on time granularity and tags attached on each input. Also, it provides multiple options which users can utilitze as a tool to explore the visualidation that can lead them to proactively find meaningful insights for improving their productivity and building their future plans. 
 - Why I selected the visualization 
-- What I attempted to show differently 
+<br /> I decided to follow overall the same structure with the original design, a line chart, because that format will show the most detailed information but at the same time overall trends of each dataset. 
 
 `↓ Figma Prototype: Please click any spaces so that you can explore the tool experience!`
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="1200" height="800" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3Qlj7vQAxTVcJwJWexFUCq%2FData-Visualization-Class%3Fpage-id%3D1%253A2%26node-id%3D18%253A9%26viewport%3D-1562%252C-95%252C0.5%26scaling%3Dcontain%26starting-point-node-id%3D18%253A9" allowfullscreen></iframe>
