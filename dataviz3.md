@@ -72,7 +72,7 @@ In this page, I'll showcase a data visualization about `how I spent my time on t
 > (L)Original .csv file (R)Processed .csv file
 
 <br /> What I changed based on the user feedback: 
-- Insights bullet point
+- Change the color of each line graph 
 
 
 ## 📊 Final Design
