@@ -19,12 +19,15 @@ In this page, I'll showcase a data visualization about `how I spent my time on t
 ## ⌛ Progress
 ### **Step 1. Insights I gained from the critique method**
 <br /> 1) Which part stood out to me, and worked well? 
-- Overall clear design that shows the trend of each planned and logged dataset. 
+- Overall, the simple hierarchy and clear design of the visualization help users to recognize the trend of each planned and logged dataset without any confusion. 
 
 <br /> 2) What it led me to think about when considering the redesign? 
 - It doesn't present the datasets that can give meaningful insights to users, such as visually highlighting the gap between planned and logged. 
 - The design only shows weekly datasets, not considering time granularity which covers detailed, daily information that the AI already tracked. 
 - The unit used in the x-axis is not easily read by users (W47 -> Week 47 -> October Week 3).    
+
+<br /> 3) Who's the primary audience of this tool, and is it effective?: 
+- The primary audience of this tool is people who work most of their time using digital devices and also need to check work progress for their productivity and self-advocacy in the workplace. For example, the audience can be freelancers, project managers, remote workers, and consulting firms workers. I guess this visualization is showing meaningful information, but it only provides really basic insights to users presenting the trend of weekly logged/planned datasets. To be more effective, it needs to highlight more in-depth insights that this dataset can create.
 
 ---
 ### **Step 2. Sketch Wireframe**
