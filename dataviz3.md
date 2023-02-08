@@ -72,7 +72,10 @@ In this page, I'll showcase a data visualization about `how I spent my time on t
 > (L)Original .csv file (R)Processed .csv file
 
 <br /> What I changed based on the user feedback: 
-- Change the color of each line graph 
+- Changed the color of each line graph to deliver a clear hierarchy between planned and logged datasets.
+- Visual consistency: Filled out inside of the all different line charts.
+- Created a on/off button for showing the user activities, which can reduce user's information overload. 
+- Highlighted a pattern which can help user to find insights easier. 
 
 
 ## 📊 Final Design
