@@ -80,6 +80,10 @@ In this page, I'll showcase a data visualization about `how I spent my time on t
 
 ## 📊 Final Design
 ### **How I spent my time on the Thesis actually with a compared to my plan over 2 months**
+
+![Prototype 4](prototype-dataviz.gif)
+> A sample user experience with Figma prototype  
+
 <br /> I mainly used `Figma` to create a data visualization prototype since it can showcase as many details as possible I planned. You can check the overall user experience from the below Figma prototype. I also implemented `a simpler version of this idea by using Tableau`, with the actual datasets I extracted from Timely. 
 - What my data visualization shows 
 <br /> It presents different depth of the information mainly based on time granularity and tags attached on each input. Also, it provides multiple options which users can utilitze as a tool to explore the visualidation that can lead them to proactively find meaningful insights for improving their productivity and building their future plans. 
