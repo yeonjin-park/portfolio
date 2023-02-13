@@ -5,9 +5,9 @@
 > Design a visualization dashboard that helps users' time management or self-reflection on their work
 
 ![Story](story.png)
-For many working professionals(including students), consistently recording work activity can play an important role in providing objective data to prove their work contributions and can provide a way to review current work and plan their future careers. However, it is not easy to record daily tasks and reflections due to the lack of convenient processes to do so. Additionally, recording this activity can become burdensome if worker responsibilities expand as roles change, e.g., becoming a manager who needs to consider other people’s tasks rather than just their own.
+For many working professionals(including students), consistently recording work activity can play an important role in `providing objective data to prove their work contributions` and can `provide a way to review current work and plan their future careers`. However, it is not easy to record daily tasks and reflections due to the lack of convenient processes to do so. Additionally, recording this activity can become burdensome if worker `responsibilities expand` as roles change, e.g., becoming a manager who needs to consider other people’s tasks rather than just their own.
 
-Based on this context, I am exploring how to visualize worklog information gathered via data-collecting technology, and especially focusing on a timeline overview and comparison chart that can help peoples’ productivity. Finally, this approach may especially aid those who have difficulty actively advocating their work performance due to language and cultural barriers.
+Based on this context, I am exploring `how to visualize worklog information gathered via data-collecting technology`, and especially focusing on a `timeline overview and comparison chart` that can help peoples’ productivity. Finally, this approach may especially aid those who have difficulty actively advocating their work performance due to language and cultural barriers.
 
 ## Initial sketches
 > My final project will be consisted of a timeline overview chart which also considers time granularity(Day/Week/Month) and a comparison feature that can give users more insights intuitively.
