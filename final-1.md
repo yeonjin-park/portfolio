@@ -1,8 +1,6 @@
 | [Homepage](https://yeonjin-park.github.io/portfolio/) | [Visualizing debt](/dataviz2.md) | [Critique by design](/dataviz3.md) | [Final Project 1](/final-1.md) |
 
 
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
 # Outline
 > Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
  
@@ -31,6 +29,8 @@ Text here...
 |      |     |             |
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
+> Data: Collecting my personal worklog from Timely(Oct 2022~Jan 2023) and export the datasets as .csv
+> Overall prototype: Planning to use Figma prototype to showcase high-fidelity design of the dashboard and smooth overall user experience.
+> Working prototype: Planning to use Tableau to implement one of my idea (e.g. Weekly or Monthly view of the timeline overview chart)
+> Documentation: Figma prototype with Tableau Link  
 
-Text here...
