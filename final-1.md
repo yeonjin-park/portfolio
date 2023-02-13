@@ -29,6 +29,8 @@ I'm planning to use `my personal work log datasets` that I collected from the ti
 
 # Method and medium
 > FYI: I'm planning to actively use Figma to present the overall user experience of my visualization idea, then integrate with Tableau to implement some of the charts in that Prototype. I previously talked about this with professor Goranson.
+
+
 - Data: Collecting `my personal worklog from Timely(Oct 2022~Jan 2023)` and export the datasets as .csv
 - Overall prototype: Planning to use `Figma prototype` to showcase high-fidelity design of the dashboard and smooth overall user experience.
 - Working prototype: Planning to use `Tableau` to implement one of my idea (e.g. Weekly or Monthly view of the timeline overview chart)
