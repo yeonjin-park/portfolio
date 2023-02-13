@@ -16,17 +16,14 @@ Text here...
 Text here...
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+I'm planning to use my personal work log datasets that I collected from the time-tracking software called Timely. Since I recorded all my work processes from last October, I will group some timestamp datasets within each project name(e.g. Thesis, Job Hunting, Digital Design System...) and export all of those into csv. Recently, I worked on grouping my 2 months' activities related to my Thesis and I attached the related file below. I'll update the following other projects part whenever I finish those. 
 
-Text here...
-
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+|   Thesis Worklog  |     |             |
+|   Job Hunting Worklog(TBD)   |     |             |
+|   School Project Worklog(TBD)   |     |             |
 
 # Method and medium
 > FYI: I'm planning to actively use Figma to present the overall user experience of my visualization idea, then integrate with Tableau to implement some of the charts in that Prototype. I previously talked about this with professor Goranson.
