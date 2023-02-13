@@ -16,8 +16,8 @@ Based on this context, I am exploring `how to visualize worklog information gath
 > Initial rough hand drawing of the idea
 
 ### Timeline Overview
-- Line Graph: Presenting time usage of each project
-- Activities: Showcase detailed user actiities of each project
+- `Line Graph`: Presenting time usage of each project
+- `Activities`: Showcase detailed user actiities of each project
 ![Timeline](Timelineoverview.png)
 
 ### Comparison feature
