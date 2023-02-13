@@ -11,9 +11,17 @@ Text here...
 Text here...
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+> My project will be consisted of a timeline overview chart which also considers time granularity(Day/Week/Month) and the comparison feature 
 
-Text here...
+### Timeline Overview
+- 
+
+### Comparison feature
+- `Comparison Option`: Compare with another project or my initial goal
+- `Check more details`: Highlight some patterns or highest/lowest points or outliers (e.g. patterns: A bigger gaps between planned vs. logged, especially on weekends)
+- `Insight dashboard`: Show the written insights by comparing them with other datasets
+- `Action Suggestion`: The dashboard suggest some actions to users for better productivity
+![Comparison](Comparison.png)
 
 # The data
 I'm planning to use `my personal work log datasets` that I collected from the time-tracking software called Timely. Since I recorded all my work processes from last October, I will group some timestamp datasets within each project name(e.g. Thesis, Job Hunting, Digital Design System) and export all of those into csv. Recently, I worked on grouping my 2 months' activities related to my Thesis and I attached the related file below. I'll update the following other projects part whenever I finish those. 
