@@ -2,7 +2,7 @@
 
 
 # Outline
-> Design a visualization dashboard that helps users' time management or self-reflection on their work
+> Project Topic: Designing a visualization dashboard that helps users' time management or self-reflection on their work
 
 ![Story](story.png)
 For many working professionals(including students), consistently recording work activity can play an important role in `providing objective data to prove their work contributions` and can `provide a way to review current work and plan their future careers`. However, it is not easy to record daily tasks and reflections due to the lack of convenient processes to do so. Additionally, recording this activity can become burdensome if worker `responsibilities expand` as roles change, e.g., becoming a manager who needs to consider other people’s tasks rather than just their own.
@@ -16,8 +16,8 @@ Based on this context, I am exploring `how to visualize worklog information gath
 > Initial rough hand drawing of the idea
 
 ### Timeline Overview
-- Line Graph
-- Activities
+- Line Graph: 
+- Activities: 
 
 ### Comparison feature
 - `Comparison Option`: Compare with another project or my initial goal
@@ -27,7 +27,7 @@ Based on this context, I am exploring `how to visualize worklog information gath
 ![Comparison](Comparison.png)
 
 # The data
-I'm planning to use `my personal work log datasets` that I collected from the time-tracking software called Timely. Since I recorded all my work processes from last October, I will group some timestamp datasets within each project name(e.g. Thesis, Job Hunting, Digital Design System) and export all of those into csv. Recently, I worked on grouping my 2 months' activities related to my Thesis and I attached the related file below. I'll update the following other projects part whenever I finish those. 
+I'm planning to use `my personal work log datasets` that I collected from the time-tracking software called [Timely](https://timelyapp.com/). Since I recorded all my work processes from last October, I will group some timestamp datasets within each project name(e.g. Thesis, Job Hunting, Digital Design System) and export all of those into csv. Recently, I worked on grouping my 2 months' activities related to my Thesis and I attached the related file below. I'll update the following other projects part whenever I finish those. 
 
 ![Export_1](export-3.png)
 > (L)Original .csv file (R)Processed .csv file
