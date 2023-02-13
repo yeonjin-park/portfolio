@@ -1,4 +1,4 @@
-| [Homepage](https://yeonjin-park.github.io/portfolio/) | [Visualizing debt](/dataviz2.md) | [Critique by design](/dataviz3.md) |
+| [Homepage](https://yeonjin-park.github.io/portfolio/) | [Visualizing debt](/dataviz2.md) | [Critique by design](/dataviz3.md) | [Final Project 1](/final-1.md) |
 
 # Visualizing government debt
 Welcome! In this page, I'll show three different types of visualizations regarding the government debt. 
