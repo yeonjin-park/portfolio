@@ -1,5 +1,5 @@
 | [Homepage](https://yeonjin-park.github.io/portfolio/) | [Visualizing debt](/dataviz2.md) | [Critique by design](/dataviz3.md) | [Final Project 1](/final-1.md) |
-# portfolio
+# About this page
 Welcome to my public portfolio for Telling Stories with Data at CMU. 
 
 # About me 
@@ -9,11 +9,8 @@ Hi, I'm Yeonjin(She/Her), a product designer currently exploring the depths of d
 I would like to explore the potential of data visualization, so planning to work in the finance sector and designing complicated charts. 
 
 # Portfolio
-## Assignment: Visualizing government Debt
-[Check my assignment](/dataviz2.md)
+[Visualizing government Debt](/dataviz2.md)
 
-## Assignment 3&4: Critique by Design
-[Check my assignment](/dataviz3.md)
+[Assignment 3&4: Critique by Design](/dataviz3.md)
 
-## Final Project: Visual data exploration that helps users' self-reflection in terms of their professional identity 
-[Check my assignment](/final-1.md)
+[Final Project: Visual data exploration that helps users' self-reflection in terms of their professional identity ](/final-1.md)
