@@ -1,20 +1,28 @@
 | [Homepage](https://yeonjin-park.github.io/portfolio/) | [Visualizing debt](/dataviz2.md) | [Critique by design](/dataviz3.md) | [Final Project 1](/final-1.md) | [Final Project 2](/final-2.md) | [Final Project 3](/final-3.md) |
 
 # Wireframes / storyboards
-> Detailed process between two features. 
-> Storyboard of the first two features, and then add others as a future possibilities, suggestion. 
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
+> (add any info)
 
-Text here!
+## Wireframe
+I initially started with the more promotion-style website for the presentation, but decided to move to the cartoon style with a user scenario since using a story would be more immersive for listeners and easy to follow. I tried to put some feature-focused pages (overview timeline&comparison) between the user scenario so that listeners can easily grasp what features the users can use in the scenario. 
+
+(put the initial two designs here)
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="1400" height="800" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F3Qlj7vQAxTVcJwJWexFUCq%2FData-Visualization-Class%3Fnode-id%3D182%253A1108%26t%3DQls2hB4xPOBiOMvC-1" allowfullscreen></iframe>
+
+## Storyboard
+I also developed in-depth version of the storyboard which includes additional feature I want to add as a future consideration. The storyboard mainly focuses on entire career path of a product designer, but I'll also cover other roles like PM or engineer, etc. 
+- Yellow tag refers to user actions with the service
+- Orange tag refers to user situations(context) 
+
+(put the user scenario image here) 
 
 # User research 
 
 ## Target audience
 > Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Text here!
+Workers in the Tech industry ranging from Junior to Lead (identify representative strategy should be included)
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
@@ -23,9 +31,10 @@ Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+|   Aesthetics and Layout   |                  |
+|   Logical Coherence   |                  |
+|   Prototype   |                  |
+|   Overall   |                  |
 
 
 Text here!
@@ -35,7 +44,7 @@ Text here!
 
 Text here!
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Junior Designer, London | Mid-level Designer, US | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
 | Question you asked here | Insightful feedback            |             |             |
 |                         |                                |             |             |
@@ -59,8 +68,8 @@ Text here!
 
 Text here!
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
+# Moodboards
+> I mainly focused on finding moodboards about the data visualization dashboard tools.
 
-Text here!
+(paste moodboard image here) 
 
