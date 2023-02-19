@@ -8,7 +8,7 @@ I initially started with the more promotion-style website for the presentation, 
 
 (put the initial two designs here)
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="1400" height="800" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F3Qlj7vQAxTVcJwJWexFUCq%2FData-Visualization-Class%3Fnode-id%3D182%253A1108%26t%3DQls2hB4xPOBiOMvC-1" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="1400" height="800" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3Qlj7vQAxTVcJwJWexFUCq%2FData-Visualization-Class%3Fpage-id%3D176%253A6%26node-id%3D182%253A1108%26viewport%3D832%252C461%252C0.5%26scaling%3Dscale-down-width" allowfullscreen></iframe>
 
 ## Storyboard
 I also developed in-depth version of the storyboard which includes additional feature I want to add as a future consideration. The storyboard mainly focuses on entire career path of a product designer, but I'll also cover other roles like PM or engineer, etc. 
