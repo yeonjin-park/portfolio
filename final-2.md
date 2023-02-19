@@ -7,6 +7,8 @@
 
 Text here!
 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="1400" height="800" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F3Qlj7vQAxTVcJwJWexFUCq%2FData-Visualization-Class%3Fnode-id%3D182%253A1108%26t%3DQls2hB4xPOBiOMvC-1" allowfullscreen></iframe>
+
 # User research 
 
 ## Target audience
