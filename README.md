@@ -1,4 +1,4 @@
-| [Homepage](https://yeonjin-park.github.io/portfolio/) | [Visualizing debt](/dataviz2.md) | [Critique by design](/dataviz3.md) | [Final Project 1](/final-1.md) |
+| [Homepage](https://yeonjin-park.github.io/portfolio/) | [Visualizing debt](/dataviz2.md) | [Critique by design](/dataviz3.md) | [Final Project 1](/final-1.md) | [Final Project 2](/final-2.md) | [Final Project 3](/final-3.md) |
 # About this page
 Welcome to my public portfolio for Telling Stories with Data at CMU. 
 
@@ -13,4 +13,8 @@ I would like to explore the potential of data visualization, so planning to work
 
 [Assignment 3&4: Critique by Design](/dataviz3.md)
 
-[Final Project: Visual data exploration that helps users' self-reflection in terms of their professional identity ](/final-1.md)
+[Final Project 1: Visual data exploration that helps users' self-reflection in terms of their professional identity ](/final-1.md)
+
+[Final Project 2](/final-2.md)
+
+[Final Project 3](/final-3.md)
