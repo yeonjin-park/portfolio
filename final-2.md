@@ -41,11 +41,10 @@ Following chart includes goals and questions for my user interview.
 |      |        Do you think the illustration style matches well with the overall wireframe design?          |
 |   Logical Coherence   |        Is the story seems clear for you?          |
 |     |        Which parts can I cut out for the 60 secs elevator pitch?          |
-|   Prototype   |       Any specific feedbacks for the prototype?           |
-|      |       How's the design(color/layout) of the prototype?           |
-|      |       What do you think about the chart designs? Are they seems the best chart type for this feature?          |
-|   Overall   |      What was your first impression with this wireframe?            |
-|     |      What was the most compelling, and consufing parts of the overall flow?             |
+|   Prototype   |        What do you think about the chart designs? Are they seems the best chart type for this feature?           |
+|      |       How's the design(color/layout) of the prototype?          |
+|   Overall   |      What was the most compelling, and consufing parts of the overall flow?           |
+|    
 
 Prior to asking all detailed questions, I shared some basic context of this project(60secs elevator pitching, need to address problems and actions, etc).
 
@@ -60,7 +59,7 @@ All three people mentioned that my user scenario is compelling and helps them ea
 |          **Is the story seems clear to you?**               |             Flow is easy to understand, and the user story is clear.                   |         Yes, I can easily imagine how users can use this service in their career life.    |      Yes, but it'd be great if you could also cover lead or manager-level use cases in the scenario.       |
 |          **Which parts can I cut out for the 60 secs elevator pitch?**                |            Maybe you can focus more on the features of each dashboard and reduce using the time for the intro and outro parts                     |      It'd be great to reduce some details of the problem statement parts. It seems to be taking over 20 secs.         |        How about cutting some of the feature explanation parts? You're now showing each of 4 features for two dashboards, and it seems too much for 60-second pitching. You can put it on another page to show it later if anyone asks about the details.     |
 |         **What do you think about the chart designs? Are they seem to be the best chart type for this feature?**              |          It seems clear for me! If you put GIF for explaining the flow, then that would be great.                      |        If you have more time to consider time granularity(monthly), I would suggest presenting more high-level information on this time setting since it would be easier for users to read and also more playful.     |      Putting their achievement on the top of the comparison feature would be useful.(e.g. Apple Fitness: you achieved your goal 23 days in this month!)       |
-|        **How's the design(color/layout) of the prototype?**               |                                |             |             |      
+|        **How's the design(color/layout) of the prototype?**               |               Need to use same typeface in the design. It seems you used two different typefaces for this design.                 |      Looks nice. Just need more polishing on layouts.        |       Overally good for mid-fi prototype. You can check Rawgraphs.com for creating a more high-quality data visualization.     |      
 |         **What were the most compelling and confusing parts of the overall flow?**               |              The illustration is the big plus point of this presentation! But I guess you'll have to spend more time polishing the dashboard itself to create the GIF.                    |       Not the confusing part, but I would suggest you put some resources on the problem statement part since you did lots of interviews and surveys before.        |       Your presentation contents are all combined with the user scenario, which is a good strategy for short pitching. The only concern is time, so make sure you can highlight only important parts in a minute.       |
 
 
@@ -73,6 +72,7 @@ All three people mentioned that my user scenario is compelling and helps them ea
 |                      Create a sticky navigation bar to add more detailed info for Q&A sesssion                    |          Rather than cut out contents in your main presentation, move them into another page and create a navigation bar so that you can show them in the Q&A session.                                                                       |
 |                     Illustration as a introduction                     |                   Put an illustration that explains person using the service on the top of the page.                                                              |
 |                    Put research resources in the problem statement part                      |                    Since I previously conducted some 1:1 interviews and online surveys to support the problem statement, I should put resources in the presentation.                                                             |
+|                    How to integrate Tableau prototype into Figma?                     |                    Need time to process Timely datasets, and put GIF and Tableau link at the bottom of the Figma file.                                                             |
 
 
 
