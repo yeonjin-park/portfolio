@@ -55,9 +55,9 @@ All three people mentioned that my user scenario is compelling and helps them ea
 
 | Questions               | Junior Designer, UK | Mid-level Designer, US | Senior Designer, KR |
 |-------------------------|--------------------------------|-------------|-------------|
-| What do you think about the overall layout and aesthetics of the wireframe? | Insightful feedback            |             |             |
-|             Do you think the illustration style matches well with the overall wireframe design?            |                                |             |             |
-|          Is the story seems clear to you?               |                                |             |             |
+| What do you think about the overall layout and aesthetics of the wireframe? |     I love the style of the illustration, which only highlights important parts by using limited colors.      |      Simple illustration with the mid-fi prototype seems harmonious. Those helped me to understand the user flow easily.       |     The use of a grey color background and a blue highlight color was a great choice.        |
+|             Do you think the illustration style matches well with the overall wireframe design?            |         Yes, black lines with greyish-blue aesthetics are all applied in both wireframe and illustration, which makes the visual consistancy.                         |        Definitely, if the dashboard design is polished more, then it would be the best.      |       Yes. The only thing I want to mention is considering the size of the text. Some text boxes seem too small compared to other overall designs.      |
+|          Is the story seems clear to you?               |             Flow is easy to understand, and the user story is clear.                   |         Yes, I can easily imagine how users can use this service in their career life.    |      Yes, but it'd be great if you could also cover lead or manager-level use cases in the scenario.       |
 |          Which parts can I cut out for the 60 secs elevator pitch?                |                                |             |             |
 |          Any specific feedback for the prototype?               |                                |             |             |
 |         How's the design(color/layout) of the prototype?               |                                |             |             |
