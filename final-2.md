@@ -21,7 +21,7 @@ Before I started creating the wireframe, I came up with the story arc regarding 
 # User research 
 
 ## Target audience
-The target audience of my project is all types of workers in the tech industry ranging from junior to lead level since those workers' most work progress can be tracked in the digital environments. This can lead to precise results of the data visualization, which will help them to check all the details of the work progress with higher accuracy. But for this project, I narrowed down my interviewees to product designers working in tech companies because the datasets I used are from a product designer. 
+The target audience of my project is `all types of workers in the tech industry ranging from junior to lead level` since those workers' most work progress can be tracked in the digital environments. This can lead to precise results of the data visualization, which will help them to check all the details of the work progress with higher accuracy. But for this project, I narrowed down my interviewees to `product designers` working in tech companies because the datasets I used are from a product designer. 
 
 ### Approach to choosing Interviewees
 To get the most varied feedback from the user group, I created a user group division like below: 
@@ -50,13 +50,19 @@ Prior to asking all detailed questions, I shared some basic context of this proj
 
 ## Interview findings
 
-Text here!
+All three people mentioned that my user scenario is compelling and helps them easily follow the overall structure of the service I suggest. The only problem was the presentation time limit, so they provided some feedback regarding `creating a more simplified flow and prioritizing the contents.`  
 
-| Questions               | Junior Designer, London | Mid-level Designer, US | Interview 3 |
+| Questions               | Junior Designer, UK | Mid-level Designer, US | Senior Designer, KR |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| What do you think about the overall layout and aesthetics of the wireframe? | Insightful feedback            |             |             |
+|             Do you think the illustration style matches well with the overall wireframe design?            |                                |             |             |
+|          Is the story seems clear for you?               |                                |             |             |
+|          Which parts can I cut out for the 60 secs elevator pitch?                |                                |             |             |
+|          Any specific feedbacks for the prototype?               |                                |             |             |
+|         How's the design(color/layout) of the prototype?               |                                |             |             |
+|          What do you think about the chart designs? Are they seems the best chart type for this feature?               |                                |             |             |
+|          What was your first impression with this wireframe?              |                                |             |             |
+|          What was the most compelling, and consufing parts of the overall flow?                |                                |             |             |
 
 
 # Identified changes for Part III
