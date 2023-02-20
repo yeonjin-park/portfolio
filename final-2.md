@@ -5,7 +5,7 @@
 ## Wireframe
 I initially started with the more promotion-style website for the presentation, but decided to move to the cartoon style with a user scenario since using a story would be more immersive for listeners and easy to follow. I tried to put some feature-focused pages (overview timeline&comparison) between the user scenario so that listeners can easily grasp what features the users can use in the scenario. 
 
-(put the initial two designs here)
+![sketches-final](sketches-final.png)
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="1200" height="800" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3Qlj7vQAxTVcJwJWexFUCq%2FData-Visualization-Class%3Fpage-id%3D176%253A6%26node-id%3D182%253A1108%26viewport%3D832%252C461%252C0.5%26scaling%3Dscale-down-width" allowfullscreen></iframe>
 
