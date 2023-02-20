@@ -22,7 +22,7 @@ Before I started creating the wireframe, I came up with the story arc regarding 
 # User research 
 
 ## Target audience
-The target audience of my project is `all types of workers in the tech industry ranging from junior to lead level` since those workers' most work progress can be tracked in the digital environments. This can lead to precise results of the data visualization, which will help them to check all the details of the work progress with higher accuracy. But for this project, I narrowed down my interviewees to `product designers` working in tech companies because the datasets I used are from a product designer. 
+The target audience of my project is `all types of workers in the tech industry ranging from junior to lead level` since those workers' most work progress can be tracked in the digital environments. (FYI: I also interviewed non-tech workers like artists before, but they also agreed it would be hard to track all their work progress since most of their work will be progressed in a non-digital environment.) This can lead to precise results of the data visualization, which will help them to check all the details of the work progress with higher accuracy. But for this project, I narrowed down my interviewees to `product designers` working in tech companies because the datasets I used are from a product designer. 
 
 ### Approach to choosing Interviewees
 To get the most varied feedback from the user group, I created a user group division like below: 
