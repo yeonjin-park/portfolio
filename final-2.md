@@ -23,6 +23,10 @@ I also developed in-depth version of the storyboard which includes additional fe
 
 Workers in the Tech industry ranging from Junior to Lead (identify representative strategy should be included)
 
+### Approach to choosing Interviewees
+text here
+
+
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
 
