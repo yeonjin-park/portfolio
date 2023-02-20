@@ -5,7 +5,7 @@
 ## Wireframe draft in Figma 
 I initially started with a more product promotion-style website for the presentation but decided to move to the `cartoon style with a user scenario` since using the story would be more compelling for people and easy to follow. I tried to put some `feature-focused parts` (features: Overview timeline&Comparison) while people scroll down the user scenario so that they can easily grasp what features the users can use in the scenario. After finishing drawing the user scenario, I am planning to spend more time on exploring visualization types on the service I suggest. 
 
-![sketches-final](Sketches-final.png)
+![sketches-final](Sketches-final2.png)
 > My Initial wireframes for presentation.
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="1200" height="800" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3Qlj7vQAxTVcJwJWexFUCq%2FData-Visualization-Class%3Fpage-id%3D176%253A6%26node-id%3D182%253A1108%26viewport%3D832%252C461%252C0.5%26scaling%3Dscale-down-width" allowfullscreen></iframe>
@@ -15,37 +15,40 @@ Before I started creating the wireframe, I came up with the story arc regarding 
 - `Yellow tag` refers to user actions with the service
 - `Orange tag` refers to user situations(context) 
 
-![storyboard](User Scenario.png)
+![storyboard](User-Scenario.png)
 > Rough sketch of the user scenario 
 
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
-
-Workers in the Tech industry ranging from Junior to Lead (identify representative strategy should be included)
+The target audience of my project is all types of workers in the tech industry ranging from junior to lead level since those workers' most work progress can be tracked in the digital environments. This can lead to precise results of the data visualization, which will help them to check all the details of the work progress with higher accuracy. But for this project, I narrowed down my interviewees to product designers working in tech companies because the datasets I used are from a product designer. 
 
 ### Approach to choosing Interviewees
-text here
+To get the most varied feedback from the user group, I created a user group division like below: 
+1) Based on their role: Junior / Mid-level / Senior 
+2) Whether they habitually have written down work log: Yes / No 
+
+I interviewed 3 people in total and mainly looked into people who regularly do self-reflection on their careers. When considering their background, I thought they'll also give more detailed feedback on the design of charts. 
 
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
-
-Text here!
+Following chart includes goals and questions for my user interview. 
 
 | Goal | Questions to Ask |
 |------|------------------|
-|   Aesthetics and Layout   |                  |
-|   Logical Coherence   |                  |
-|   Prototype   |                  |
-|   Overall   |                  |
+|   Aesthetics and Layout   |        What do you think about the overall layout and aesthetics of the wireframe?          |
+|      |        Do you think the illustration style matches well with the overall wireframe design?          |
+|   Logical Coherence   |        Is the story seems clear for you?          |
+|     |        Which parts can I cut out for the 60 secs elevator pitch?          |
+|   Prototype   |       Any specific feedbacks for the prototype?           |
+|      |       How's the design(color/layout) of the prototype?           |
+|      |       What do you think about the chart designs? Are they seems the best chart type for this feature?          |
+|   Overall   |      What was your first impression with this wireframe?            |
+|     |      What was the most compelling, and consufing parts of the overall flow?             |
 
-
-Text here!
+Prior to asking all detailed questions, I shared some basic context of this project(60secs elevator pitching, need to address problems and actions, etc).
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
 Text here!
 
@@ -57,7 +60,6 @@ Text here!
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
 Text here!
 
@@ -67,7 +69,6 @@ Text here!
 |                                          |                                                                                 |
 |                                          |                                                                                 |
 |                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
 
 
 
