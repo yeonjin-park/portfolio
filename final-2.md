@@ -67,14 +67,13 @@ All three people mentioned that my user scenario is compelling and helps them ea
 
 # Identified changes for Part III
 
-Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
+| Cut out parts for the presentation |Cut out some explanations of the dashboard, just highlight 1 or 2 important features. Also, problem statement can be more shorten.|
+|                      Create a sticky navigation bar to add more detailed info for Q&A sesssion                    |          Rather than cut out contents in your main presentation, move them into another page and create a navigation bar so that you can show them in the Q&A session.                                                                       |
+|                     Illustration as a introduction                     |                   Put an illustration that explains person using the service on the top of the page.                                                              |
+|                    Put research resources in the problem statement part                      |                    Since I previously conducted some 1:1 interviews and online surveys to support the problem statement, I should put resources in the presentation.                                                             |
 
 
 
