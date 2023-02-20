@@ -1,7 +1,6 @@
 | [Homepage](https://yeonjin-park.github.io/portfolio/) | [Visualizing debt](/dataviz2.md) | [Critique by design](/dataviz3.md) | [Final Project 1](/final-1.md) | [Final Project 2](/final-2.md) | [Final Project 3](/final-3.md) |
 
 # Wireframes / storyboards
-> (add any info)
 
 ## Wireframe
 I initially started with the more promotion-style website for the presentation, but decided to move to the cartoon style with a user scenario since using a story would be more immersive for listeners and easy to follow. I tried to put some feature-focused pages (overview timeline&comparison) between the user scenario so that listeners can easily grasp what features the users can use in the scenario. 
