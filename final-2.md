@@ -57,13 +57,13 @@ All three people mentioned that my user scenario is compelling and helps them ea
 |-------------------------|--------------------------------|-------------|-------------|
 | What do you think about the overall layout and aesthetics of the wireframe? | Insightful feedback            |             |             |
 |             Do you think the illustration style matches well with the overall wireframe design?            |                                |             |             |
-|          Is the story seems clear for you?               |                                |             |             |
+|          Is the story seems clear to you?               |                                |             |             |
 |          Which parts can I cut out for the 60 secs elevator pitch?                |                                |             |             |
-|          Any specific feedbacks for the prototype?               |                                |             |             |
+|          Any specific feedback for the prototype?               |                                |             |             |
 |         How's the design(color/layout) of the prototype?               |                                |             |             |
-|          What do you think about the chart designs? Are they seems the best chart type for this feature?               |                                |             |             |
-|          What was your first impression with this wireframe?              |                                |             |             |
-|          What was the most compelling, and consufing parts of the overall flow?                |                                |             |             |
+|          What do you think about the chart designs? Are they seem to be the best chart type for this feature?               |                                |             |             |
+|          What was your first impression of this wireframe?              |                                |             |             |
+|          What were the most compelling and confusing parts of the overall flow?               |                                |             |             |
 
 
 # Identified changes for Part III
