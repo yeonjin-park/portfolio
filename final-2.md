@@ -44,7 +44,6 @@ Following chart includes goals and questions for my user interview.
 |   Prototype   |        What do you think about the chart designs? Are they seems the best chart type for this feature?           |
 |      |       How's the design(color/layout) of the prototype?          |
 |   Overall   |      What was the most compelling, and consufing parts of the overall flow?           |
-|    
 
 Prior to asking all detailed questions, I shared some basic context of this project(60secs elevator pitching, need to address problems and actions, etc).
 
