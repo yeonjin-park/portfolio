@@ -4,10 +4,10 @@
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="1200" height="800" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3Qlj7vQAxTVcJwJWexFUCq%2FData-Visualization-Class%3Fpage-id%3D278%253A2%26node-id%3D341%253A3920%26viewport%3D1043%252C1548%252C0.07%26scaling%3Dscale-down-width%26starting-point-node-id%3D341%253A3920" allowfullscreen></iframe>
 
 # Major Changes and Updates from Part 2
-## Change of an audience 
+## Audience 
 Originally my project target was tech workers ranging from product designers to engineers. Because of that reason, I created a user flow that shows a product designer's entire life with the tool I suggested. However, after a few discussions with professor Goranson, I changed from a designer to a graduate student since the storytelling itself should be sympathized by the audience of the class, which are students. This also made some light changes of the datasets used in the visualization, from product designers to students. 
 
-## Changed structure 
+## Changed the flow of my presentation
 As my project was more focused on the solution itself rather than the problem statement, I needed to create a balance in my final presentation by cutting off the product feature part and putting more focus on the visualization I used for the design solution. Again, the professor helped me a lot to find the right way, and I made several revisions to get to this level. I moved all the detailed information about features to the other page(also added left navigation), and also included another page for explaining how I exported my work log datasets from Timely and created a sample working visualization using Tableau. 
 
 ## Design Decisions
