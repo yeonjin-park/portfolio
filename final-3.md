@@ -4,7 +4,7 @@
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="1200" height="800" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3Qlj7vQAxTVcJwJWexFUCq%2FData-Visualization-Class%3Fpage-id%3D278%253A2%26node-id%3D341%253A3920%26viewport%3D1043%252C1548%252C0.07%26scaling%3Dscale-down-width%26starting-point-node-id%3D341%253A3920" allowfullscreen></iframe>
 
 # Major Changes and Updates from Part 2
-My Final Data Story
+`My Final Data Story`
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="1200" height="800" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3Qlj7vQAxTVcJwJWexFUCq%2FData-Visualization-Class%3Fpage-id%3D524%253A5843%26node-id%3D530%253A5879%26viewport%3D562%252C1336%252C0.18%26scaling%3Dscale-down-width%26starting-point-node-id%3D530%253A5879" allowfullscreen></iframe>
 - Change of an audience 
 - Changed structure 
@@ -13,4 +13,6 @@ My Final Data Story
 
 # Post-presentation Reflections
 
+
 # References 
+Since all of the datasets used for my final projects are my personal data collected from Timely, there are no references in my case. 
